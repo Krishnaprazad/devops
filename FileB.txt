@@ -1,1 +1,1 @@
-"File B changed by feature branch" 
+"File B changed again in feature branch" 
