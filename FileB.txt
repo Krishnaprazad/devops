@@ -1,1 +1,1 @@
-"File B changed again in feature branch" 
+"File B changed in feature branch for 3 way quash" 
