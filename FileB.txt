@@ -1,1 +1,1 @@
-"File B changed in feature branch for 3 way quash" 
+"After merge and conflict resolved in File B" 
