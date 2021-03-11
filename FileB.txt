@@ -1,1 +1,1 @@
-"After merge and conflict resolved in File B" 
+"After merge and conflict resolved in File B- version 2" 
